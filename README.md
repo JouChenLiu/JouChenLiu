@@ -47,7 +47,8 @@
 * Secretary, Tzu Chi Collegiate Association in Taoyuan     September 2021 - June 2022
   - 慈濟大專青年聯誼會 - 桃園區區執秘
 * Curation Captain, Tzu Chi Youth Online Learning Companion     in 2021
-  - 慈濟青年線上伴學趣 - 中隊長 (Buddhist Tzu Chi Foundation X TZU CHI International Youth Association)
+  - 慈濟青年線上伴學趣 - 中隊長
+  - This volunteer activity is hosted by Buddhist Tzu Chi Foundation and TZU CHI International Youth Association.
 * Group Leader, Graduation Project Carnival of MIS Department in NCU     in 2020
   - 中央大學資管系資管嘉年華 - 策展組組長
   
