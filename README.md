@@ -8,7 +8,7 @@
 #### Nice to meet you😀
 
 ### Education
-* National Central University (NCU) - Taiwan, R.O.C | GPA: 3.53    September 2019 - June 2023 (Expected Graduation)
+* National Central University (NCU) - Taiwan, R.O.C | GPA: 3.53 &emsp;&emsp; September 2019 - June 2023 (Expected Graduation)
   - Bachelor of Business Administration, major Management Information System (MIS)
   - 國立中央大學資訊管理學系 - 學士
   - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) in NCU
@@ -16,7 +16,7 @@
 
 ### Achievements & Honors
 * 2022資服競賽校內初選 - 大會專題類資訊技術應用組 第二名🥈 111.9.27
-  => 前三名代表系上出賽
+<br />=> 前三名代表系上出賽
 * 108學年度中央大學校慶運動會 - 女子個人400公尺 預賽總排名第一🥇 決賽第三🥉
 * 2021 Northern College Information Cup - 2nd place🥈
   - 2021北資盃 - 第二名
@@ -40,16 +40,16 @@
 * [LeetCode - Anna_Liu](https://leetcode.com/Anna_Liu/)
 
 ### Leadership experience
-* Captain, The Women's Volleyball team of MIS Department in NCU     February 2021 - January 2022
+* Captain, The Women's Volleyball team of MIS Department in NCU &emsp;&emsp; February 2021 - January 2022
   - 中央大學資管系系女排 - 隊長
-* Captain, Kind Kids Group in NCU     September 2020 - present (stopped from Feb. 2021 due to the epidemic)
+* Captain, Kind Kids Group in NCU &emsp;&emsp; September 2020 - present (stopped from Feb. 2021 due to the epidemic)
   - 中央大學慈幼社仁工隊 - 隊長
-* Secretary, Tzu Chi Collegiate Association in Taoyuan     September 2021 - June 2022
+* Secretary, Tzu Chi Collegiate Association in Taoyuan &emsp;&emsp; September 2021 - June 2022
   - 慈濟大專青年聯誼會 - 桃園區區執秘
-* Curation Captain, Tzu Chi Youth Online Learning Companion     in 2021
+* Curation Captain, Tzu Chi Youth Online Learning Companion &emsp;&emsp; in 2021
   - 慈濟青年線上伴學趣 - 中隊長
   - This volunteer activity is hosted by Buddhist Tzu Chi Foundation and TZU CHI International Youth Association.
-* Group Leader, Graduation Project Carnival of MIS Department in NCU     in 2020
+* Group Leader, Graduation Project Carnival of MIS Department in NCU &emsp;&emsp; in 2020
   - 中央大學資管系資管嘉年華 - 策展組組長
   
 ### Work experience
