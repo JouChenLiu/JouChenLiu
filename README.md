@@ -1,6 +1,6 @@
 # About me
 ### I'm a simple, kind and hardworking girl who loves in research IT and likes to accept challenge.
-- 👋 Hi, I’m @JouChenLiu.
+- 👋 Hi! I’m Jou Chen, Liu.
 - ❤ I’m interested in sports and singing.
 - 🌱 I’m currently learning about computer science such as data science, computer networking, NLP(BERT model), Frontend and BackEnd, etc.
 - 👩‍💻 My familiar programming language are Java, C language and Python.
