@@ -60,4 +60,4 @@
 <img src="MyPhoto.jpg" width="150" alt="My professional portrait" />
 
 ## Links
-## [Visit my Resume website](https://jouchen.github.io/)
+## [Visit my Resume website](https://jouchenliu.github.io/)
