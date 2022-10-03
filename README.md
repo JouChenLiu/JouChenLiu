@@ -15,7 +15,7 @@
   - 第二專長 - 資訊工程程式設計
 
 ### Achievements & Honors
-* 2022資服競賽校內初選 - 大會專題類資訊技術應用組 第二名🥈 111.9.27
+* 中央資管111學年度專題競賽 第二名🥈 111.9.27
 <br />=> 前三名代表系上出賽
 * 108學年度中央大學校慶運動會 - 女子個人400公尺 預賽總排名第一🥇 決賽第三🥉
 * 2021 Northern College Information Cup - 2nd place🥈
@@ -51,6 +51,7 @@
   - This volunteer activity is hosted by Buddhist Tzu Chi Foundation and TZU CHI International Youth Association.
 * Group Leader, Graduation Project Carnival of MIS Department in NCU &emsp;&emsp; in 2020
   - 中央大學資管系資管嘉年華 - 策展組組長
+* 桃園區慈青迎新宿營 隊輔長 in 2021
   
 ### Work experience
 * the office part-time worker in Department of EMBA in NCU
