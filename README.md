@@ -9,7 +9,7 @@
 
 ### Education
 * National Central University (NCU) - Taiwan, R.O.C | GPA: 3.53 &emsp;&emsp; September 2019 - June 2023 (Expected Graduation)
-  - Bachelor of Business Administration, major Management Information System (MIS)
+  - Bachelor of Business Administration, major Information Management (IM)
   - 國立中央大學資訊管理學系 - 學士
   - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) in NCU
   - 第二專長 - 資訊工程程式設計
