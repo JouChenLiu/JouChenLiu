@@ -44,7 +44,7 @@
   - 中央大學資管系系女排 - 隊長
 * Captain, Kind Kids Group in NCU &emsp;&emsp; September 2020 - present (stopped from Feb. 2021 due to the epidemic)
   - 中央大學慈幼社仁工隊 - 隊長
-* Secretary, Tzu Chi Collegiate Association in Taoyuan &emsp;&emsp; September 2021 - June 2022
+* Secretary, Tzu Chi Collegiate Association in Taoyuan &emsp;&emsp; September 2021 - August 2022
   - 慈濟大專青年聯誼會 - 桃園區區執秘
 * Curation Captain, Tzu Chi Youth Online Learning Companion &emsp;&emsp; 2021.7~2022.1
   - 慈濟青年線上伴學趣 - 中隊長
