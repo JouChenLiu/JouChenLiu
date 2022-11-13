@@ -58,7 +58,7 @@
   - 中央大學EMBA系辦 - 工讀生
 
 ## Professional portrait
-<img src="MyPhoto.jpg" width="150" alt="My professional portrait" />
+<img src="AnnaPhoto.jpg" width="150" alt="My professional portrait" />
 
 ## Links
 ## [Visit my Resume website](https://jouchenliu.github.io/)
