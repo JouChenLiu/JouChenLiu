@@ -61,4 +61,4 @@
 <img src="AnnaPhoto.jpg" width="150" alt="My professional portrait" />
 
 ## Links
-## [Visit my Resume website](https://jouchenliu.github.io/)
+## [Visit my LinkedIn](https://www.linkedin.com/in/jouchenliu/)
