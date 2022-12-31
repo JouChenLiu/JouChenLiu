@@ -3,7 +3,7 @@
 - 👋 Hi! I’m Jou Chen, Liu.
 - ❤ I’m interested in sports and singing.
 - 🌱 I’m currently learning about computer science such as data science, computer networking, NLP(BERT model), Frontend and BackEnd, etc.
-- 👩‍💻 My familiar programming language are Java, C language and Python.
+- 👩‍💻 My familiar programming language are Python, Java, and C.
 - 📫 You can reach me by (Email)ann987987987@gmail.com or (LinkedIn)[linkedin.com/in/jouchenliu](https://linkedin.com/in/jouchenliu).
 #### Nice to meet you😀
 
