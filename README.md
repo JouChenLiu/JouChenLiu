@@ -22,7 +22,7 @@
   - 2021北資盃 - 第二名
 
 ### Languages & IT skills
-* IT Software: Microsoft Office, Java, C, Python, C++, Microsoft Visual Studio, Android Studio, Firebase, MySOL
+* IT Software: Microsoft Office, Java, C, Python, HTML/CSS/JavaScript/React, Microsoft Visual Studio, Android Studio, Firebase, MySOL
 * Mandarin Chinese: Mother tongue
 * English: fluent / Tests dispensed by ETS: TOEIC 760 | CEFR B1
 
