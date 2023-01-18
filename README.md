@@ -61,4 +61,4 @@
 <img src="AnnaPhoto.jpg" width="150" alt="My professional portrait" />
 
 ## Links
-## [Visit my LinkedIn](https://www.linkedin.com/in/jouchenliu/)
+## [Visit My Website](https://jouchenliu.github.io/anna-web/)
