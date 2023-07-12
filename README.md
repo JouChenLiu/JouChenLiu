@@ -2,17 +2,20 @@
 ### I'm a simple, kind and hardworking girl who loves in research IT and likes to accept challenge.
 - 👋 Hi! I’m Jou Chen, Liu.
 - ❤ I’m interested in sports and singing.
-- 🌱 I’m currently learning about computer science such as data science, computer networking, NLP(BERT model), Frontend and BackEnd, etc.
+- 🌱 I’m currently learning about computer science such as data science, computer networking, AI/ML, NLP, Frontend and BackEnd, etc.
 - 👩‍💻 My familiar programming language are Python, Java, and C.
 - 📫 You can reach me by (Email)ann987987987@gmail.com or (LinkedIn)[linkedin.com/in/jouchenliu](https://linkedin.com/in/jouchenliu).
 #### Nice to meet you😀
 
 ### Education
-* National Central University (NCU) - Taiwan, R.O.C | GPA: 3.53 &emsp;&emsp; September 2019 - June 2023 (Expected Graduation)
+* National Central University (NCU) - Taiwan, R.O.C | GPA: 3.53 &emsp;&emsp; September 2019 - June 2023
   - Bachelor of Business Administration, major Information Management (IM)
   - 國立中央大學資訊管理學系 - 學士
   - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) in NCU
   - 第二專長 - 資訊工程程式設計
+
+* National Taiwan University of Science and Technology (NTUST) - Taiwan, R.O.C | GPA: X &emsp;&emsp; September 2023 - June 2025 (Expected Graduation)
+  - Master of Business Administration, major Information Management (IM)
 
 ### Achievements & Honors
 * 中央資管111學年度專題競賽 第二名🥈 111.9.27
