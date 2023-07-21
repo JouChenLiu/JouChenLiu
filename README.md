@@ -58,7 +58,9 @@
 * 桃園區慈青迎新宿營 隊輔長 in 2021
   
 ### Work experience
-* the office part-time worker in Department of EMBA in NCU
+* an Information Assistant Intern at MULTICAST DIGITAL INTEGRATED CORPORATION
+  - 銓聯資訊有限公司 - 資訊助理實習生
+* the office part-time worker at Department of EMBA in NCU
   - 中央大學EMBA系辦 - 工讀生
 
 ## Professional portrait
