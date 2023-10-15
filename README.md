@@ -9,14 +9,14 @@
 
 ### Education
 * National Central University (NCU) - Taiwan, R.O.C | GPA: 3.53 &emsp; September 2019 - June 2023
-  - Bachelor of Business Administration, major Information Management (IM)
+  - Bachelor of Business Administration, major Management Information System (MIS)
   - 國立中央大學 資訊管理學系 - 學士
   - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) in NCU
   - 第二專長 - 資訊工程程式設計
 
 * National Taiwan University of Science and Technology (NTUST) - Taiwan, R.O.C | GPA: X &emsp; September 2023 - June 2025 (Expected Graduation)
-  - Master of Business Administration, major Information Management (IM)
-  - 國立臺灣科技大學 資訊管理學系 - 碩士班(甲組/資訊科技與應用服務研究群)
+  - Master of Business Administration, major Management Information System (MIS)
+  - 國立臺灣科技大學 資訊管理系 - 碩士班(甲組/資訊科技與應用服務研究群)
 
 ### Achievements & Honors
 * 中央資管111學年度專題競賽 第二名🥈 111.9.27
