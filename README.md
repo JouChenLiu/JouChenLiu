@@ -1,22 +1,22 @@
 # About me
-### I'm a simple, kind and hardworking girl who loves in research IT and likes to accept challenge.
+### I'm a simple, kind and hardworking girl who loves in research IT and likes to accept challenges.
 - 👋 Hi! I’m Jou Chen, Liu.
 - ❤ I’m interested in sports and singing.
 - 🌱 I’m currently learning about computer science such as data science, computer networking, AI/ML, NLP, Frontend and BackEnd, etc.
-- 👩‍💻 My familiar programming language are Python, Java, and C.
+- 👩‍💻 My familiar programming languages are Python, Java, and C.
 - 📫 You can reach me by (Email)ann987987987@gmail.com or (LinkedIn)[linkedin.com/in/jouchenliu](https://linkedin.com/in/jouchenliu).
 #### Nice to meet you😀
 
 ### Education
+* National Taiwan University of Science and Technology (NTUST) - Taiwan, R.O.C | GPA: X &emsp; September 2023 - June 2025 (Expected Graduation)
+  - Master of Business Administration, major Management Information System (MIS)
+  - 國立臺灣科技大學 資訊管理系 - 碩士班 (甲組/資訊科技與應用服務研究群)
+
 * National Central University (NCU) - Taiwan, R.O.C | GPA: 3.53 &emsp; September 2019 - June 2023
   - Bachelor of Business Administration, major Management Information System (MIS)
   - 國立中央大學 資訊管理學系 - 學士
-  - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) in NCU
+  - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) at NCU
   - 第二專長 - 資訊工程程式設計
-
-* National Taiwan University of Science and Technology (NTUST) - Taiwan, R.O.C | GPA: X &emsp; September 2023 - June 2025 (Expected Graduation)
-  - Master of Business Administration, major Management Information System (MIS)
-  - 國立臺灣科技大學 資訊管理系 - 碩士班(甲組/資訊科技與應用服務研究群)
 
 ### Achievements & Honors
 * 中央資管111學年度專題競賽 第二名🥈 111.9.27
@@ -26,11 +26,11 @@
   - 2021北資盃 - 第二名
 
 ### Languages & IT skills
-* IT Software: Microsoft Office, Java, C, Python, HTML/CSS/JavaScript/React, Microsoft Visual Studio, Android Studio, Firebase, MySOL
+* IT Software: Microsoft Office, Python, Java, C#, C/C++, HTML/CSS, JavaScript, React, Microsoft Visual Studio, Android Studio, Firebase, MySQL/SQL
 * Mandarin Chinese: Mother tongue
 * English: fluent / Tests dispensed by ETS: TOEIC 760 | CEFR B1
 
-### Professional & relevant coursework
+### College Graduation Project
 * Graduation Project: CAN - the Best Partner for Soothing Emotions
   - CAN is an music app of the best partner for soothing emotions.
   - It classifies music through AI, uses melody and lyrics sentiment analysis, obtains the emotional value of the song, and then classifies it, matches the emotional options input by the user, and uses music to lead you back from pessimistic thoughts, or to cheer you up.
@@ -44,13 +44,15 @@
 * [LeetCode - Anna_Liu](https://leetcode.com/Anna_Liu/)
 
 ### Leadership experience
-* Captain, The Women's Volleyball team of MIS Department in NCU &emsp;&emsp; February 2021 - January 2022
+* Activity lead, 2023 Tzu Chi Youth Global Humanities Education Exchange, Taiwan and Malaysia &emsp;&emsp; 2023.08 (2023.04 - 2023.08)
+  - 2023年慈濟大專青年全球人文教育交流
+* Captain, The Women's Volleyball team of MIS Department in NCU &emsp;&emsp; 2021.01 - 2022.02
   - 中央大學資管系系女排 - 隊長
-* Captain, Kind Kids Group in NCU &emsp;&emsp; September 2020 - present (stopped from Feb. 2021 due to the epidemic)
+* Captain, Kind Kids Group in NCU &emsp;&emsp; 2019.09 - 2021.06
   - 中央大學慈幼社仁工隊 - 隊長
-* Secretary, Tzu Chi Collegiate Association in Taoyuan &emsp;&emsp; September 2021 - August 2022
+* Secretary, Tzu Chi Collegiate Association in Taoyuan &emsp;&emsp; 2021.09 - 2022.08
   - 慈濟大專青年聯誼會 - 桃園區區執秘
-* Curation Captain, Tzu Chi Youth Online Learning Companion &emsp;&emsp; 2021.7~2022.1
+* Curation Captain, Tzu Chi Youth Online Learning Companion &emsp;&emsp; 2021.07 - 2022.01
   - 慈濟青年線上伴學趣 - 中隊長
   - This volunteer activity is hosted by Buddhist Tzu Chi Foundation and TZU CHI International Youth Association.
 * Group Leader, Graduation Project Carnival of MIS Department in NCU &emsp;&emsp; in 2020
@@ -58,9 +60,9 @@
 * 桃園區慈青迎新宿營 隊輔長 in 2021
   
 ### Work experience
-* an Information Assistant Intern at MULTICAST DIGITAL INTEGRATED CORPORATION
+* an Information Assistant Intern at MULTICAST DIGITAL INTEGRATED CORPORATION &emsp;&emsp; 2023.04 - 2023.08
   - 銓聯資訊有限公司 - 資訊助理實習生
-* the office part-time worker at Department of EMBA in NCU
+* Part-time work in EMBA office at NCU &emsp;&emsp; 2021.03 - 2022.06
   - 中央大學EMBA系辦 - 工讀生
 
 ## Professional portrait
