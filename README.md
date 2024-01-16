@@ -9,11 +9,11 @@
 
 ### Education
 * National Taiwan University of Science and Technology (NTUST) - Taiwan, R.O.C | GPA: X &emsp; September 2023 - June 2025 (Expected Graduation)
-  - Master of Business Administration, major Management Information System (MIS)
+  - Master of Business Administration, major Information Management (IS)
   - 國立臺灣科技大學 資訊管理系 - 碩士班 (甲組/資訊科技與應用服務研究群)
 
 * National Central University (NCU) - Taiwan, R.O.C | GPA: 3.53 &emsp; September 2019 - June 2023
-  - Bachelor of Business Administration, major Management Information System (MIS)
+  - Bachelor of Business Administration, major Information Management (IS)
   - 國立中央大學 資訊管理學系 - 學士
   - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) at NCU
   - 第二專長 - 資訊工程程式設計
@@ -26,7 +26,7 @@
   - 2021北資盃 - 第二名
 
 ### Languages & IT skills
-* IT Software: Microsoft Office, Python, Java, C#, C/C++, HTML/CSS, JavaScript, React, Microsoft Visual Studio, Android Studio, Firebase, MySQL/SQL
+* IT Software: Microsoft Office, Python, Java, C#, C, C++, HTML, CSS, JavaScript, Vue.js, React.js, MySQL, SQL, Firebase, Android Studio, Microsoft Visual Studio
 * Mandarin Chinese: Mother tongue
 * English: fluent / Tests dispensed by ETS: TOEIC 760 | CEFR B1
 
