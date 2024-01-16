@@ -12,7 +12,7 @@
   - Master of Business Administration, major Information Management (IS)
   - 國立臺灣科技大學 資訊管理系 - 碩士班 (甲組/資訊科技與應用服務研究群)
 
-* National Central University (NCU) - Taiwan, R.O.C | GPA: 3.53 &emsp; September 2019 - June 2023
+* National Central University (NCU) - Taiwan, R.O.C | GPA: 3.59 &emsp; September 2019 - June 2023
   - Bachelor of Business Administration, major Information Management (IS)
   - 國立中央大學 資訊管理學系 - 學士
   - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) at NCU
