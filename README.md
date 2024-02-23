@@ -9,11 +9,11 @@
 
 ### Education
 * National Taiwan University of Science and Technology (NTUST) - Taiwan, R.O.C | GPA: X &emsp; September 2023 - June 2025 (Expected Graduation)
-  - Master of Business Administration, major Information Management (IS)
+  - Master of Business Administration, major Information Management (IM)
   - 國立臺灣科技大學 資訊管理系 - 碩士班 (甲組/資訊科技與應用服務研究群)
 
 * National Central University (NCU) - Taiwan, R.O.C | GPA: 3.59 &emsp; September 2019 - June 2023
-  - Bachelor of Business Administration, major Information Management (IS)
+  - Bachelor of Business Administration, major Information Management (IM)
   - 國立中央大學 資訊管理學系 - 學士
   - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) at NCU
   - 第二專長 - 資訊工程程式設計
@@ -32,7 +32,7 @@
 
 ### College Graduation Project
 * Graduation Project: CAN - the Best Partner for Soothing Emotions
-  - CAN is an music app of the best partner for soothing emotions.
+  - CAN is a music app of the best partner for soothing emotions.
   - It classifies music through AI, uses melody and lyrics sentiment analysis, obtains the emotional value of the song, and then classifies it, matches the emotional options input by the user, and uses music to lead you back from pessimistic thoughts, or to cheer you up.
   - It also provides a function of Short-term soothing journey that user can practice breathing with the animation on the phone screen to achieve a soothing effect.
   - Besides, after using for a while, CAN will provide delivery records for cans, that is, record of the musical journey. This function will help users to know which kind of music is suitable for listening to their mood.
