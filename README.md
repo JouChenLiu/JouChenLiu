@@ -8,10 +8,16 @@
 #### Nice to meet you😀
 
 ### Education
+#### Double Master Degree 碩士雙聯學位
+* Karlsruhe University of Applied Science (Hochschule Karlsruhe, HKA) - Germany| September 2024 - August 2025 (Expected Graduation)
+  - Master of Computer Science and Business Information Systems (CS&BIS) (Informatik und Wirtschaftsinformatik, IWI)
+  - 卡爾斯魯厄應用科技大學 電腦科學和商業資訊系統 - 碩士班
+
 * National Taiwan University of Science and Technology (NTUST) - Taiwan, R.O.C | GPA: X &emsp; September 2023 - June 2025 (Expected Graduation)
   - Master of Business Administration, major Information Management (IM)
   - 國立臺灣科技大學 資訊管理系 - 碩士班 (甲組/資訊科技與應用服務研究群)
 
+#### Bachelor Degree 學士學位
 * National Central University (NCU) - Taiwan, R.O.C | GPA: 3.59 &emsp; September 2019 - June 2023
   - Bachelor of Business Administration, major Information Management (IM)
   - 國立中央大學 資訊管理學系 - 學士
