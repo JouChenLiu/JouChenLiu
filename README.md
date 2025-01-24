@@ -8,7 +8,7 @@
 #### Nice to meet you😀
 
 ### Education
-#### Double Master Degree 碩士雙聯學位
+#### Master Double Degree 碩士雙聯學位
 * Karlsruhe University of Applied Science (Hochschule Karlsruhe, HKA) - Germany | GPA: X &emsp; September 2024 - August 2025 (Expected Graduation)
   - Master of Computer Science and Business Information Systems (CS&BIS) (Informatik und Wirtschaftsinformatik, IWI)
   - 卡爾斯魯厄應用科技大學 電腦科學與商業資訊系統 - 碩士班
