@@ -2,24 +2,25 @@
 ### I'm a simple, kind and hardworking girl who loves in research IT and likes to accept challenges.
 - 👋 Hi! I’m Jou Chen, Liu.
 - ❤ I’m interested in sports and singing.
-- 🌱 I’m currently learning about computer science such as data science, computer networking, AI/ML, NLP, Frontend and BackEnd, etc.
+- 🌱 I’m currently learning about computer science such as software testing, data science, computer networking, AI/ML, NLP, Frontend and BackEnd, etc.
 - 👩‍💻 My familiar programming languages are Python, Java, and C.
-- 📫 You can reach me by (Email)ann987987987@gmail.com or (LinkedIn)[linkedin.com/in/jouchenliu](https://linkedin.com/in/jouchenliu).
+- 📫 You can reach me by (LinkedIn)[linkedin.com/in/jouchenliu](https://linkedin.com/in/jouchenliu).
 #### Nice to meet you😀
 
 ### Education
 #### Master Double Degree 碩士雙聯學位
-* Karlsruhe University of Applied Science (Hochschule Karlsruhe, HKA) - Germany | GPA: X &emsp; September 2024 - August 2025 (Expected Graduation)
-  - Master of Computer Science and Business Information Systems (CS&BIS) (Informatik und Wirtschaftsinformatik, IWI)
-  - 卡爾斯魯厄應用科技大學 電腦科學與商業資訊系統 - 碩士班
+* Karlsruhe University of Applied Science (Hochschule Karlsruhe, HKA) - Germany | German grade: 1.7 (good) &emsp; Sep. 2024 - May 2026
+  - Master of Science (MSc) in Business Information Systems (BIS)
+  - Faculty of Computer Science and Business Information Systems (CS&BIS) (Informatik und Wirtschaftsinformatik, IWI)
+  - 卡爾斯魯厄應用科技大學 商業資訊系統 - 碩士班
 
-* National Taiwan University of Science and Technology (NTUST) - Taiwan, R.O.C | GPA: X &emsp; September 2023 - August 2025 (Expected Graduation)
-  - Master of Business Administration, major Information Management (IM)
+* National Taiwan University of Science and Technology (NTUST) - Taiwan, R.O.C | GPA: 3.99 &emsp; Sep. 2023 - May 2026
+  - Master of Business Administration (MBA) in Information Management (IM)
   - 國立臺灣科技大學 資訊管理系 - 碩士班 (甲組/資訊科技與應用服務研究群)
 
 #### Bachelor Degree 學士學位
-* National Central University (NCU) - Taiwan, R.O.C | GPA: 3.59 &emsp; September 2019 - June 2023
-  - Bachelor of Business Administration, major Information Management (IM)
+* National Central University (NCU) - Taiwan, R.O.C | GPA: 3.59 &emsp; Sep. 2019 - June 2023
+  - Bachelor of Business Administration (BBA) in Information Management (IM)
   - 國立中央大學 資訊管理學系 - 學士
   - Minor Specialty: Programming design in the Department of Computer Science Information Engineering (CSIE) at NCU
   - 第二專長 - 資訊工程程式設計
@@ -66,13 +67,12 @@
 * 桃園區慈青迎新宿營 隊輔長 in 2021
   
 ### Work experience
+* Piecework Software Engineer at ADD Clothes &emsp;&emsp; 2023.04 - Now
+  - ADD 服飾 - 接案軟體工程師
 * an Information Assistant Intern at MULTICAST DIGITAL INTEGRATED CORPORATION &emsp;&emsp; 2023.04 - 2023.08
   - 銓聯資訊有限公司 - 資訊助理實習生
 * Part-time work in EMBA office at NCU &emsp;&emsp; 2021.03 - 2022.06
   - 中央大學EMBA系辦 - 工讀生
-
-## Professional portrait
-<img src="AnnaPhoto.jpg" width="150" alt="My professional portrait" />
 
 ## Links
 ## [Visit My Website](https://jouchenliu.github.io/anna-web/)
